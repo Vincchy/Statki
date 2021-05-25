@@ -1,0 +1,7 @@
+﻿  Game.cpp
+C:\Users\kemoc\Downloads\Project3-20210518T133442Z-001\Project3\Project3\Game.cpp(7,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Ship.cpp
+  Źródło.cpp
+  Generowanie kodu...
+C:\Users\kemoc\Downloads\Project3-20210518T133442Z-001\Project3\Project3\Ship.cpp(101): warning C4715: "Ship::placeShip”: niewszystkie ścieżki kodu zwracają wartość
+  Project3.vcxproj -> C:\Users\kemoc\Downloads\Project3-20210518T133442Z-001\Project3\Debug\Project3.exe
